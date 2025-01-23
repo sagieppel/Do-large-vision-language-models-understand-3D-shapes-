@@ -6,7 +6,7 @@
 
 1) The paper ["Do large language vision models understand 3D shapes?"](https://arxiv.org/pdf/2412.10908) can be downloaded from [this URL](https://arxiv.org/pdf/2412.10908).
 
-2) Sample of the dataset are available at: [Zenodo](https://zenodo.org/records/14681299), [Google drive](https://drive.google.com/drive/folders/1pxSnX-qpBfcQ47BbPQmy8pbURk0vXMzu?usp=drive_link), [Pcloud](https://e.pcloud.link/publink/show?code=kZz7FKZ8xfKSIHppBShSuU65cxBvQkorVXV),  [Icedrive]().
+2) Sample of the dataset are available at: [Zenodo](https://zenodo.org/records/14681299), [Google drive](https://drive.google.com/drive/folders/1pxSnX-qpBfcQ47BbPQmy8pbURk0vXMzu?usp=drive_link), [Pcloud](https://e.pcloud.link/publink/show?code=kZz7FKZ8xfKSIHppBShSuU65cxBvQkorVXV).
    
      Note that, these are just subsamples  of few thousand images, its possible to generate unlimited number of images using the generation script supplied below. 
 
