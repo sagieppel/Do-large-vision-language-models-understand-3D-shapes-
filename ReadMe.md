@@ -3,7 +3,7 @@
 ![](/Figure1.jpg)
 
 
-1) The paper ["Do large language vision models understand 3D shapes?"](https://arxiv.org/pdf/2412.10908) can be downloaded from [this url](https://arxiv.org/pdf/2412.10908)
+1) The paper ["Do large language vision models understand 3D shapes?"](https://arxiv.org/pdf/2412.10908) can be downloaded from [this URL](https://arxiv.org/pdf/2412.10908).
 
 2) Sample of the dataset can be download from: [Zenodo](https://zenodo.org/records/14681299), [Google drive](https://drive.google.com/drive/folders/1pxSnX-qpBfcQ47BbPQmy8pbURk0vXMzu?usp=drive_link), [Pcloud](https://e.pcloud.link/publink/show?code=kZz7FKZ8xfKSIHppBShSuU65cxBvQkorVXV),  [Icedrive]().
    
