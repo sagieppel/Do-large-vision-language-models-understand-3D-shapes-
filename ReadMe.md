@@ -10,6 +10,6 @@
    
      Note that, these are just subsamples  of few thousand images, its possible to generate unlimited number of images using the generation script supplied below. 
 
-4) The generation code used to generate the images for the benchmark is available at [this repository](https://github.com/sagieppel/Can-vision-language-models-understand-and-match-3D-shapes/).
+4) The generation code used to generate the images for the benchmark is available at [this repository](https://github.com/sagieppel/Generate_3D_Shape_Recognition_and_Retrieval_Synthetic_Dataset_Blender).
    
 5) Code for evaluating various of LVLMs (GPT, LLama, Gemini, Claude) on the benchmark is available at [this repository](https://github.com/sagieppel/Can-vision-language-models-understand-and-match-3D-shapes/).
