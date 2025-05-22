@@ -1,5 +1,7 @@
 # Links to code, dataset, and images for the paper "Do large language vision models understand 3D shapes?"
-## Links Code and benchmark for testing Vision Language Models (LVM) ability to identify and match 3D shapes.
+ Links Code and benchmark for testing Vision Language Models (LVM) ability to identify and match 3D shapes.
+
+The main dataset and benchmark for 3D shape retrieval as been significantly extened and is now combined with the LAS&T dataset: Available from the [page1](https://github.com/sagieppel/Shape-and-Texture-recognition-in-large-vision-language-models-/tree/main), [page2](https://zenodo.org/records/15453634).
 
 ![](/Figure1.jpg)
 
